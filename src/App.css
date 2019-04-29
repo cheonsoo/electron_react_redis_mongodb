@@ -32,11 +32,15 @@
   }
 }
 
-.div_Customers {
+.div_dashboard {
+  display : block;
+}
+
+.div_customers {
   display : none;
 }
 
-.div_Members {
+.div_members {
   display : none;
 }
 

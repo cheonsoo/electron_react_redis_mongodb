@@ -4,6 +4,7 @@
     "author": "cpark",
     "private": true,
     "dependencies": {
+        "@amcharts/amcharts4": "^4.4.1",
         "electron-is-dev": "^1.1.0",
         "mdbreact": "^4.13.0",
         "ng": "0.0.0",
